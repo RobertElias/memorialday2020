@@ -1,0 +1,25 @@
+body {
+    padding-top: 70px;
+    background-image: url("./images/jakob-owens.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    
+}
+
+h1 {
+    text-align: left;
+    color: white;
+}
+.jumbotron {
+    color: white;
+}
+.navbar {
+    background-color:#1c3853d8;
+}
